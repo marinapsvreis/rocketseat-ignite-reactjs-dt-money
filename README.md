@@ -13,6 +13,8 @@ npm add @types/styled-components -D
 
 npm add miragejs
 
+npm add axios
+
 
 
 
