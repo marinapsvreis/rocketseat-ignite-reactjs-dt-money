@@ -11,6 +11,8 @@ npm add styled-components
 
 npm add @types/styled-components -D
 
+npm add miragejs
+
 
 
 
