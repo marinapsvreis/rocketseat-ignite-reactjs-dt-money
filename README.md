@@ -8,12 +8,14 @@ npm i
 npm config set legacy-peer-deps true 
 //o comando acima foi necessário para que o styled components fosse instalado
 npm add styled-components
-
 npm add @types/styled-components -D
 
 npm add miragejs
 
 npm add axios
+
+npm add react-modal
+npm add @types/react-modal
 
 
 
