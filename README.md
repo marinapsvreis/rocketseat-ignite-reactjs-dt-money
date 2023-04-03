@@ -17,6 +17,8 @@ npm add axios
 npm add react-modal
 npm add @types/react-modal
 
+npm add polished
+
 
 
 
